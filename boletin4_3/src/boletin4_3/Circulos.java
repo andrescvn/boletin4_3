@@ -10,7 +10,7 @@ package boletin4_3;
  * @author acomesanavila
  */
 public class Circulos {
-    private float radio;
+    private double radio;
     public final double pi=3.14;
 
 public Circulos (){
